@@ -1,7 +1,5 @@
 # svg2vd
-Convert SVGs to Android Vector Drawables
-
-![](vectorman.png)![](android.png)
+Convert SVGs to Android Vector Drawables from the command line.
 
 ## Building
 
