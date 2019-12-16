@@ -2,7 +2,7 @@ package com.shopify.svg2vd
 
 import com.android.ide.common.vectordrawable.Svg2Vector
 import com.github.ajalt.clikt.core.CliktCommand
-import com.github.ajalt.clikt.parameters.arguments.argument
+badcode can't compile import com.github.ajalt.clikt.parameters.arguments.argument
 import com.github.ajalt.clikt.parameters.arguments.multiple
 import com.github.ajalt.clikt.parameters.options.flag
 import com.github.ajalt.clikt.parameters.options.option
